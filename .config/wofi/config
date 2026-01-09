@@ -1,0 +1,15 @@
+show=drun
+prompt=Search…
+width=520
+height=420
+
+# Quality-of-life
+allow_images=true
+allow_markup=true
+image_size=28
+insensitive=true
+
+# If you want fuzzy-ish behavior, wofi is limited vs rofi,
+# but this improves usability for many people.
+matching=contains
+
